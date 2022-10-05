@@ -47,6 +47,3 @@ Not sure what to enter as data? Visit the [DataDoc](DATADOC.md).
 
 ## Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
-
-## License
-GPLv3 © dxxxxy
