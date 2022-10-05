@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![](https://img.shields.io/github/downloads/DxxxxY/Hephaestus/total?style=for-the-badge)
 
-Join the **[Discord Server](https://dsc.gg/dxxxxy)** for support and pre-releases.
+Join the **[Discord Server](https://dsc.gg/tryhard)** for support and pre-releases.
 
 </div>
 
