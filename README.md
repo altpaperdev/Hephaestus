@@ -38,7 +38,7 @@ Setup and build yourself.
 
 **or**
 
-Download from [Releases](https://github.com/DxxxxY/Hephaestus/releases) and execute with `java -jar <file name>.jar`.
+Download from [Releases](https://github.com/Jelly289/Hephaestus/releases) and execute with `java -jar <file name>.jar`.
 
 ## Help
 Crashes on start? Normal, use Java JDK 8.
